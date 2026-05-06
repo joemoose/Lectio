@@ -37,7 +37,7 @@ All theme-level values are defined as CSS custom properties in the `:root` block
 | `--width` | `720px` | Maximum content column width |
 | `--font-main` | DM Sans, system fallbacks | Headings, nav, UI chrome |
 | `--font-secondary` | Georgia, serif fallback | Body copy |
-| `--font-scale` | `1.0625em` | Base font size (~17px) |
+| `--font-scale` | `1.08em` | Base font size (~17.3px) |
 | `--link-color` | `#2b6cb0` | Link and focus indicator color |
 | `--background-color` | `#fafaf8` | Page background (light mode) |
 
