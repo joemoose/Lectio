@@ -1,6 +1,6 @@
 # Lectio - A Bear Theme
 
-A legibility-focused, accessibility-conscious CSS theme for the [Bearbog.dev](https://bearblog.dev) blogging platform. 
+A legibility-focused, accessibility-conscious CSS theme for the [Bearblog.dev](https://bearblog.dev) blogging platform. 
 
 ---
 
