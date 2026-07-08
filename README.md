@@ -16,7 +16,7 @@ A legibility-focused, accessibility-conscious CSS theme for the [Bearblog.dev](h
 
 ## Preview
 
-Example page: [Lectio Stylesheet Demo](https://joemoose.github.io/lectio-demo.html)
+Example page: [Lectio Stylesheet Demo](https://joemoose.github.io/lectio/demo.html)
 
 ---
 
